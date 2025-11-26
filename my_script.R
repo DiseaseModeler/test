@@ -10,7 +10,7 @@ suppressPackageStartupMessages({
   library(htmlwidgets)
   library(htmltools)
   library(gridExtra)
-  
+  library(usethis)
 })
 
 # ----------------------------
