@@ -11,6 +11,7 @@ suppressPackageStartupMessages({
   library(htmltools)
   library(gridExtra)
   library(usethis)
+  library(epiR)
 })
 
 # ----------------------------
